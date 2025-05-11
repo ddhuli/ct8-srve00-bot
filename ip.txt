@@ -6,3 +6,4 @@ www.okcupid.com:443
 sso.cloudflare.dev:443
 www.it7.net:443
 workers.cloudflare.com:443
+pages.cloudflare.com:443
