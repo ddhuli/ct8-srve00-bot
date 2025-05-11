@@ -1,6 +1,5 @@
-[2607:f130:0:190::6b09:2bae]:995#Los Angeles
-[2606:4700:310c:802b:76e1:bc03:a98:6105]:443#Los Angeles
-104.24.230.164#Los Ange
-180.70.125.97:30037#KR/Seoul
-8.219.245.52:443#🇸🇬新加坡9
 pages.cloudflare.com:443
+workers.cloudflare.com:443
+www.udacity.com:443
+fbi.gov:443
+www.okcupid.com:443
