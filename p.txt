@@ -1,7 +1,0 @@
-pages.cloudflare.com:443
-workers.cloudflare.com:443
-www.udacity.com:443
-fbi.gov:443
-www.okcupid.com:443
-sso.cloudflare.dev:443
-www.it7.net:443
